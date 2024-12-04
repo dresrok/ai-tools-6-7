@@ -1,13 +1,15 @@
+# Código Limpio
+
 ## Caso 6
 
 Este código tiene violaciones de Naming conventions, es necesario identificarlas y corregirlas.
 
 ### Puedes resolver este ejercicio usando las siguientes herramientas:
 
-https://claude.ai/
-https://chatgpt.com/
+- https://claude.ai/
+- https://chatgpt.com/
 
-### Una vez resuelvas copia tu respuesta y valídala mediante el siguiente enlace:
+### Una vez lo resuelvas, copia tu respuesta y valídala mediante el siguiente enlace:
 
 https://chatgpt.com/g/g-674f349049508191bc39d4686fbf8d33-clean-code-naming
 
@@ -17,10 +19,10 @@ Analice el código y realice cambios para mejorar la legibilidad y la facilidad 
 
 ### Puedes resolver este ejercicio usando las siguientes herramientas:
 
-https://claude.ai/
-https://chatgpt.com/
+- https://claude.ai/
+- https://chatgpt.com/
 
-### Una vez resuelvas copia tu respuesta y valídala mediante el siguiente enlace:
+### Una vez lo resuelvas, copia tu respuesta y valídala mediante el siguiente enlace:
 
 https://chatgpt.com/g/g-674f349049508191bc39d4686fbf8d33-clean-code-naming
 
